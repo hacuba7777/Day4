@@ -1,5 +1,5 @@
 # tests/test_worldline.py
-mayuri_alive = True
+mayuri_alive = False
 kurisu_alive = True
 future_intact = True
 
