@@ -28,7 +28,7 @@ jobs:
       - name: 安裝世界線清理者(flake8)
         run: pip install flake8
 
-      - name: 安裝套件.
+      - name: 安裝套件
         run: pip install -r requirements.txt
 
       - name: 啟動世界線檢查（測試）
